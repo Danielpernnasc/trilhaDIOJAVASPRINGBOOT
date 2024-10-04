@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ExemploDoWhile",
+            "request": "launch",
+            "mainClass": "ExemploDoWhile",
+            "projectName": "controle-fluxo_41b9f849"
+        },
+        {
+            "type": "java",
+            "name": "ExemploWhile",
+            "request": "launch",
+            "mainClass": "ExemploWhile",
+            "projectName": "controle-fluxo_41b9f849"
+        },
+        {
+            "type": "java",
             "name": "ExemploBreakContinue",
             "request": "launch",
             "mainClass": "ExemploBreakContinue",
